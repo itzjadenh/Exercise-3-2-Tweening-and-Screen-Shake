@@ -83,3 +83,5 @@ visible = false
 process_mode = 3
 grow_horizontal = 2
 grow_vertical = 2
+
+[node name="Camera" type="Camera2D" parent="."]
